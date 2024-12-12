@@ -1,0 +1,4 @@
+{
+  "soapURL": "https://login.live.com/RST2.srf",
+  "api4URL": "https://login.live.com/ppsecure/post.srf?"
+}
